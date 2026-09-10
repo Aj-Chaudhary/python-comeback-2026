@@ -1,0 +1,27 @@
+#Python Comeback 2026
+
+My structured journey toward becoming a Software Engineer.
+
+##Roadmap
+
+-[] Python Basics
+-[] Control Flow
+-[] Functions
+-[] Data Structures
+-[] Object-Oriented Programming
+-[] Files & Exception
+-[] Modules & Packages
+-[] Advaced Python
+-[] DSA
+-[] Projects
+
+##Goal
+
+Become internship-ready for Software Engineering Intern Opportunities in 2026-2027.
+
+##Progress
+
+##Day 1 
+-Created Python Learning repository
+-Set up Git
+-Created first python program
