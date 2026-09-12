@@ -1,0 +1,10 @@
+first_number = int(input("Enter first number: "))
+second_number = int(input("Enter second number: "))
+
+print("Equal:", first_number == second_number)
+print("First number greater:", first_number > second_number)
+print("Second number greater:", second_number > first_number)
+print("Not equal:", first_number != second_number)
+print("First number less than second:", first_number < second_number)
+print("First number greater than or equal to second:", first_number >= second_number)
+print("First number less than or equal to second:", first_number <= second_number)
